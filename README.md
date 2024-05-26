@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogeswaran S
-- 👀 I’m interested in Software especially coding 
+- 👀 I’m interested in both Hardware and Software 
 - 🌱 I’m currently pursuing B.E ECE (2nd Year) 
 - 📫 How to reach me -> yogihari2101@gmail.com
 
