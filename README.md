@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogeswaran S
-- 👀 I’m interested in both Hardware and Software 
+- 👀 I’m interested in Embedded Systems and IoT 
 - 🌱 I’m currently pursuing B.E ECE
 - 📫 How to reach me -> yogihari2101@gmail.com
 
